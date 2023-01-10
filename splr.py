@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import whisper
 import pyttsx3
-import pyaudio
+#import pyaudio
 import wave
 import io
 import time
